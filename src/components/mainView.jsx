@@ -1,8 +1,9 @@
 import Button from "react-bootstrap/Button";
+
 export const Main = () => {
 	return (
 		<>
-			<section className="mainBackground">
+			<section  className="mainBackground">
 				<div className="mainText">
 					<h1>
 						Your New <span id="specialWords">Copilot</span>{" "}
