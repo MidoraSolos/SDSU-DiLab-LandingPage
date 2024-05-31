@@ -49,7 +49,7 @@ body {
 			rgba(0, 0, 0, 0.81) 5.78%,
 			rgba(28, 28, 28, 0) 121.09%
 		),
-		url("AdobeStock_4817983051.png");
+		url("/public/AdobeStock_4817983051.png");
 
 	/* background-image: url("AdobeStock_481798305 1.png"); */
 	background-size: cover;
